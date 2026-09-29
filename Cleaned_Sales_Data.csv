@@ -1,0 +1,41 @@
+﻿Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Discount,Sales
+1001,05-01-2026,Aarav Sharma,Laptop,Electronics,North,2,65000,0.05,123500
+1002,08-01-2026,Priya Mehta,Office Chair,Furniture,West,4,12000,0.1,43200
+1003,12-01-2026,Rohan Patil,Smartphone,Electronics,South,3,30000,0.05,85500
+1004,18-01-2026,Sneha Joshi,Desk,Furniture,East,2,18000,0,36000
+1005,24-01-2026,Vikram Shah,Tablet,Electronics,North,5,22000,0.08,101200
+1006,03-02-2026,Ananya Rao,Laptop,Electronics,West,3,65000,0.05,185250
+1007,07-02-2026,Karan Gupta,Bookshelf,Furniture,South,2,15000,0.05,28500
+1008,11-02-2026,Neha Kulkarni,Smartphone,Electronics,East,4,30000,0.1,108000
+1009,16-02-2026,Rahul Verma,Office Chair,Furniture,North,6,12000,0.05,68400
+1010,22-02-2026,Isha Nair,Tablet,Electronics,West,4,22000,0.05,83600
+1011,02-03-2026,Aditya Singh,Laptop,Electronics,South,2,65000,0.1,117000
+1012,06-03-2026,Pooja Deshmukh,Desk,Furniture,East,3,18000,0.05,51300
+1013,10-03-2026,Manish Yadav,Smartphone,Electronics,North,5,30000,0.08,138000
+1014,15-03-2026,Kavya Iyer,Bookshelf,Furniture,West,4,15000,0.05,57000
+1015,21-03-2026,Sahil Khan,Tablet,Electronics,South,6,22000,0.1,118800
+1016,28-03-2026,Riya Kapoor,Laptop,Electronics,East,2,65000,0.05,123500
+1017,04-04-2026,Nikhil More,Office Chair,Furniture,North,5,12000,0.08,55200
+1018,09-04-2026,Simran Kaur,Smartphone,Electronics,West,3,30000,0.05,85500
+1019,14-04-2026,Yash Thakur,Desk,Furniture,South,4,18000,0.1,64800
+1020,20-04-2026,Meera Joshi,Tablet,Electronics,East,5,22000,0.05,104500
+1021,03-05-2026,Arjun Malhotra,Laptop,Electronics,North,3,65000,0.08,179400
+1022,08-05-2026,Tanvi Shah,Bookshelf,Furniture,West,3,15000,0.05,42750
+1023,13-05-2026,Varun Bansal,Smartphone,Electronics,South,4,30000,0.05,114000
+1024,19-05-2026,Aditi Sethi,Office Chair,Furniture,East,7,12000,0.1,75600
+1025,25-05-2026,Dev Joshi,Tablet,Electronics,North,4,22000,0.08,80960
+1026,02-06-2026,Maya Rao,Laptop,Electronics,West,2,65000,0.05,123500
+1027,09-06-2026,Kabir Patel,Desk,Furniture,South,5,18000,0.05,85500
+1028,15-06-2026,Sanya Jain,Smartphone,Electronics,East,3,30000,0.08,82800
+1029,21-06-2026,Aman Roy,Office Chair,Furniture,North,4,12000,0.05,45600
+1030,27-06-2026,Nandini Rao,Tablet,Electronics,West,5,22000,0.1,99000
+1031,04-07-2026,Omkar Jadhav,Laptop,Electronics,South,3,65000,0.05,185250
+1032,09-07-2026,Shruti Menon,Bookshelf,Furniture,East,4,15000,0.08,55200
+1033,14-07-2026,Harsh Agarwal,Smartphone,Electronics,North,5,30000,0.05,142500
+1034,20-07-2026,Komal Patil,Desk,Furniture,West,3,18000,0.1,48600
+1035,26-07-2026,Raj Mehta,Tablet,Electronics,South,4,22000,0.05,83600
+1036,03-08-2026,Diya Sharma,Laptop,Electronics,East,2,65000,0.08,119600
+1037,08-08-2026,Aakash Nair,Office Chair,Furniture,North,6,12000,0.05,68400
+1038,13-08-2026,Muskan Gupta,Smartphone,Electronics,West,4,30000,0.1,108000
+1039,19-08-2026,Parth Shah,Desk,Furniture,South,2,18000,0.05,34200
+1040,25-08-2026,Sakshi Rao,Tablet,Electronics,East,5,22000,0.08,101200
